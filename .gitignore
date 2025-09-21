@@ -100,8 +100,12 @@ dist
 # vuepress v2.x temp and cache directory
 .temp
 .cache
+<<<<<<< HEAD
 uploads/
 
+=======
+upload
+>>>>>>> dcba79032ed1d2cbea21d06f4d734ca04aea9881
 # Sveltekit cache directory
 .svelte-kit/
 
